@@ -1,0 +1,5 @@
+leaf_switch_1:
+  groups:
+  - a
+  hostname: 192.168.1.1
+  name: leaf_switch_1
