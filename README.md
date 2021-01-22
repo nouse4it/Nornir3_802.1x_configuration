@@ -26,5 +26,4 @@ Python Version must be at least v3.6.8
 
 ## Usage
 
-Create necessary inventory in nornir3_hosts.yaml. There you need to put all devices that you want to run the script against.
-After done so you only have to run the script and put the informations your are asked for.
+Configure global settings as well as per interface settings for 802.1x usage on an access switch device.
