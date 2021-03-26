@@ -58,3 +58,6 @@ When you provided this informaations the script run on all the mentioned switche
 The script will set all global commands from the best practice guide for 802.1x of Cisco:
 https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_usr_8021x/configuration/xe-3se/3850/sec-user-8021x-xe-3se-3850-book/config-ieee-802x-pba.html#GUID-430BBBAE-CB5D-46F9-80B2-6DF8A5497922
 
+## Licensing info
+
+Please see [LICENSE](https://github.com/nouse4it/netmiko_IOS_Update/blob/master/LICENSE)
