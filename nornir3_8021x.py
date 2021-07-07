@@ -190,7 +190,6 @@ for dev in hosts.inventory.hosts.items():
 # Hostname gives every value i need seperate by '-' so i cut the needed informations out of the hostname string
 for host in host_list:
     location = host[:3].upper()
-    bldnr = int(host.split('-')[2])
     building = host[8:10]
     swt = host[6:7]
     if swt == "a":
