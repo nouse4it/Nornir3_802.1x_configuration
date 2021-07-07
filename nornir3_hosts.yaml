@@ -1,5 +1,7 @@
-leaf_switch_1:
+chig-a-72-1-01:
   groups:
   - a
   hostname: 192.168.1.1
-  name: leaf_switch_1
+  name: chig-a-72-1-01
+  data:
+    dotx1: 'yes'
