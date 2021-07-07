@@ -5,7 +5,7 @@ Category: Python Nornig Config Script
 Author: NoUse4IT <github@schlueter-online.net>
 
 nornir_8021x_complete.py
-Illustrate the following conecepts:
+Illustrate the following concepts:
 - Set all necessary global Settings for 802.1x on IOS-based Device
 - Setting all neccessary interface configurations based on check if description and interface type
 - Add the Device to ISE with all secrets and needed groups
